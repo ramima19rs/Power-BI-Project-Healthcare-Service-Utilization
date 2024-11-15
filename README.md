@@ -29,3 +29,5 @@ proportions for other ethnic groups.
 Overall, the report offers a detailed breakdown of member demographics, tenure, healthcare
 service usage, and product type enrollment, providing valuable insights for tailoring services,
 improving member engagement, and optimizing healthcare resource allocation
+
+![1111](https://github.com/user-attachments/assets/ee8d4266-1b10-49bb-9394-3b47f74a9010)
